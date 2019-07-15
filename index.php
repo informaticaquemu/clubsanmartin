@@ -1,4 +1,3 @@
-<!-- php header("Location: views/inicio.php");?> -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
